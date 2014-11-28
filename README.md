@@ -1,6 +1,6 @@
 Prueba
 ======
 
-**Esto es un repositorio de  prueba**
+*Esto es un repositorio de  prueba*
 
 
